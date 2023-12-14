@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "bookName": "The Rose Code",
+      "authorName": "George Orwell",
+      "imageUrl": "https://i.postimg.cc/3rcWcXhv/s-l1200.webp",
+      "price": 560,
+      "rating": 4,
+      "feature": false,
+      "id": 1
+    },
+    {
+      "bookName": "Slow Horses (Deluxe Edition)",
+      "authorName": "Mick Herron",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": 14,
+      "rating": 3,
+      "feature": false,
+      "id": 2
+    },
+    {
+      "bookName": "The Last Thing He Told Me: A Novel",
+      "authorName": "Laura Dave",
+      "imageUrl": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": 13.99,
+      "rating": 4,
+      "feature": false,
+      "id": 3
+    },
+    {
+      "bookName": "Eloquent JavaScript, 3rd Edition",
+      "authorName": "Marijn Haverbeke",
+      "imageUrl": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": 23.99,
+      "rating": 4,
+      "feature": true,
+      "id": 4
+    },
+    {
+      "bookName": "The Great Gatsby",
+      "authorName": "Harper Lee",
+      "imageUrl": "https://i.postimg.cc/nztgq67p/image3.jpg",
+      "price": 500,
+      "rating": 4.5,
+      "feature": true,
+      "id": 5
+    },
+    {
+      "bookName": "To Kill a Mockingbird",
+      "authorName": "George Orwell",
+      "imageUrl": "https://i.postimg.cc/0Nk8Qjxv/the-book-thief-by-markus-zusak.jpg",
+      "price": 600,
+      "rating": 4,
+      "feature": true,
+      "id": 6
+    }
+  ]
+}
